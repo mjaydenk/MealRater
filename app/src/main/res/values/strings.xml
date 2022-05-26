@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MealRater</string>
+    <string name="restaurant_text">Restaurant:</string>
+    <string name="dish_text">Dish:</string>
+    <string name="rating">Rating:</string>
+    <string name="rate_meal">Rate Meal</string>
+    <string name="name_restaurant">Restaurant Name</string>
+    <string name="name_dish">Dish Name</string>
+    <string name="ratingDesc">Meal Rating out of 5</string>
+    <string name="save_rating">Save Rating</string>
+</resources>
